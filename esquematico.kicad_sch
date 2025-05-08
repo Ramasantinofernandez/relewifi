@@ -5171,7 +5171,7 @@
 	)
 	(global_label "NO1"
 		(shape input)
-		(at 128.905 54.61 180)
+		(at 128.27 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5181,7 +5181,7 @@
 		)
 		(uuid "011654c7-972c-45d3-993f-658f73299408")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 122.0493 54.61 0)
+			(at 121.4143 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5237,7 +5237,7 @@
 	)
 	(global_label "COM2.3"
 		(shape input)
-		(at 265.43 122.555 180)
+		(at 265.43 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5247,7 +5247,7 @@
 		)
 		(uuid "0e238313-93c5-40a3-b9ce-7c2ae6fc5f7d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.3691 122.555 0)
+			(at 255.3691 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5281,7 +5281,7 @@
 	)
 	(global_label "NO1.3"
 		(shape input)
-		(at 265.43 114.935 180)
+		(at 265.43 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5291,7 +5291,7 @@
 		)
 		(uuid "100a96ec-764b-4b8d-91ae-8a9bd2373f73")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 256.76 114.935 0)
+			(at 256.76 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5325,7 +5325,7 @@
 	)
 	(global_label "COM1"
 		(shape input)
-		(at 128.905 52.07 180)
+		(at 128.27 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5335,7 +5335,7 @@
 		)
 		(uuid "168bc73e-49cf-4c61-8aae-0055ac1b285a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.6584 52.07 0)
+			(at 120.0234 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5389,9 +5389,9 @@
 			)
 		)
 	)
-	(global_label "GPIO4"
+	(global_label "GPIO21"
 		(shape input)
-		(at 162.56 175.26 0)
+		(at 162.56 157.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5401,7 +5401,7 @@
 		)
 		(uuid "2b0adb12-6b06-49e8-ac31-64d43b8200cf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.23 175.26 0)
+			(at 172.4395 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5411,9 +5411,9 @@
 			)
 		)
 	)
-	(global_label "GPIO15"
+	(global_label "GPIO19"
 		(shape input)
-		(at 162.56 182.88 0)
+		(at 162.56 162.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5423,7 +5423,7 @@
 		)
 		(uuid "2fff31f5-ea9d-4780-931b-72caa99fa532")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.4395 182.88 0)
+			(at 172.4395 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5521,7 +5521,7 @@
 			)
 		)
 	)
-	(global_label "GPIO33"
+	(global_label "GPIO18"
 		(shape input)
 		(at 158.75 51.435 180)
 		(fields_autoplaced yes)
@@ -5545,7 +5545,7 @@
 	)
 	(global_label "NC2.2"
 		(shape input)
-		(at 129.54 116.84 180)
+		(at 129.54 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5555,7 +5555,7 @@
 		)
 		(uuid "3de649a4-d923-4847-8f3d-843a8a1ebe4b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.9305 116.84 0)
+			(at 120.9305 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5611,7 +5611,7 @@
 	)
 	(global_label "COM2.1"
 		(shape input)
-		(at 264.16 62.865 180)
+		(at 264.16 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5621,7 +5621,7 @@
 		)
 		(uuid "4a14c21c-baa5-4409-85ce-5e1936af2732")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.0991 62.865 0)
+			(at 254.0991 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5633,7 +5633,7 @@
 	)
 	(global_label "NC1"
 		(shape input)
-		(at 128.905 49.53 180)
+		(at 128.27 49.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5643,7 +5643,7 @@
 		)
 		(uuid "4c6f1794-25e6-4066-904b-1f074b8cd2df")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 122.1098 49.53 0)
+			(at 121.4748 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5653,31 +5653,31 @@
 			)
 		)
 	)
-	(global_label "GPIO32"
+	(global_label "GPIO17"
 		(shape input)
-		(at 121.92 160.02 180)
+		(at 162.56 170.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "507bd40e-347d-4a6c-bca3-c083b206471d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 112.0405 160.02 0)
+			(at 172.4395 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "NO2.2"
 		(shape input)
-		(at 129.54 121.92 180)
+		(at 129.54 116.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5687,7 +5687,7 @@
 		)
 		(uuid "538ed9e5-8828-4c95-b23f-ea0f19299072")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.87 121.92 0)
+			(at 120.87 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5721,7 +5721,7 @@
 	)
 	(global_label "COM1.3"
 		(shape input)
-		(at 265.43 112.395 180)
+		(at 265.43 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5731,7 +5731,7 @@
 		)
 		(uuid "5d5bf2eb-01e8-4c2a-9332-1c08438836b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.3691 112.395 0)
+			(at 255.3691 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5963,7 +5963,7 @@
 	)
 	(global_label "NC2.1"
 		(shape input)
-		(at 264.16 60.325 180)
+		(at 264.16 64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5973,7 +5973,7 @@
 		)
 		(uuid "93033714-ff72-41da-89b9-0b484b7100c4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.5505 60.325 0)
+			(at 255.5505 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6005,7 +6005,7 @@
 			)
 		)
 	)
-	(global_label "GPIO15"
+	(global_label "GPIO19"
 		(shape input)
 		(at 24.13 107.95 180)
 		(fields_autoplaced yes)
@@ -6073,7 +6073,7 @@
 	)
 	(global_label "NC2.3"
 		(shape input)
-		(at 265.43 120.015 180)
+		(at 265.43 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6083,7 +6083,7 @@
 		)
 		(uuid "9ccc7316-b44a-413c-9149-058a8935421c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 256.8205 120.015 0)
+			(at 256.8205 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6095,7 +6095,7 @@
 	)
 	(global_label "NO2.3"
 		(shape input)
-		(at 265.43 125.095 180)
+		(at 265.43 119.38 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6105,7 +6105,7 @@
 		)
 		(uuid "9fc472a3-48e1-46de-9809-1b90336e3d72")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 256.76 125.095 0)
+			(at 256.76 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6247,7 +6247,7 @@
 			)
 		)
 	)
-	(global_label "GPIO32"
+	(global_label "GPIO17"
 		(shape input)
 		(at 160.02 111.125 180)
 		(fields_autoplaced yes)
@@ -6293,7 +6293,7 @@
 	)
 	(global_label "NO2.1"
 		(shape input)
-		(at 264.16 65.405 180)
+		(at 264.16 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6303,7 +6303,7 @@
 		)
 		(uuid "baea92e8-4b0b-4a0e-abcf-def0c7e5e682")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.49 65.405 0)
+			(at 255.49 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6379,7 +6379,7 @@
 			)
 		)
 	)
-	(global_label "GPIO4"
+	(global_label "GPIO21"
 		(shape input)
 		(at 23.495 50.8 180)
 		(fields_autoplaced yes)
@@ -6391,7 +6391,7 @@
 		)
 		(uuid "cf83fab4-9c4d-495a-bed1-66aa8290a9b4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.825 50.8 0)
+			(at 13.6155 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6401,24 +6401,24 @@
 			)
 		)
 	)
-	(global_label "GPIO33"
+	(global_label "GPIO18"
 		(shape input)
-		(at 121.92 162.56 180)
+		(at 162.56 165.1 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "d29f16e5-c5de-4a09-8caa-d1a81ac02d16")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 112.0405 162.56 0)
+			(at 172.4395 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6469,7 +6469,7 @@
 	)
 	(global_label "NC2"
 		(shape input)
-		(at 128.905 59.69 180)
+		(at 128.27 64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6479,7 +6479,7 @@
 		)
 		(uuid "d7d5aa29-7cbe-44df-ac4d-b6059c44797b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 122.1098 59.69 0)
+			(at 121.4748 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6535,7 +6535,7 @@
 	)
 	(global_label "NC1.3"
 		(shape input)
-		(at 265.43 109.855 180)
+		(at 265.43 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6545,7 +6545,7 @@
 		)
 		(uuid "e936e33d-9ddd-4917-9bf8-ec03f83b9f0d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 256.8205 109.855 0)
+			(at 256.8205 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6557,7 +6557,7 @@
 	)
 	(global_label "COM2"
 		(shape input)
-		(at 128.905 62.23 180)
+		(at 128.27 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6567,7 +6567,7 @@
 		)
 		(uuid "e9792852-e023-4a73-94f2-fc34c6c5d30c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.6584 62.23 0)
+			(at 120.0234 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6601,7 +6601,7 @@
 	)
 	(global_label "NO2"
 		(shape input)
-		(at 128.905 64.77 180)
+		(at 128.27 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6611,7 +6611,7 @@
 		)
 		(uuid "f5b674b0-26de-4f97-8357-a0cbedee667b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 122.0493 64.77 0)
+			(at 121.4143 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8650,7 +8650,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 270.51 122.555 0)
+		(at 270.51 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8659,7 +8659,7 @@
 		(fields_autoplaced yes)
 		(uuid "7109e342-4e36-48cc-97b3-c20902cacd10")
 		(property "Reference" "J9"
-			(at 273.05 121.2849 0)
+			(at 273.05 120.6499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8668,7 +8668,7 @@
 			)
 		)
 		(property "Value" "BORNERA 2"
-			(at 273.05 123.8249 0)
+			(at 273.05 123.1899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8677,7 +8677,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-3_P5.08mm"
-			(at 270.51 122.555 0)
+			(at 270.51 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8686,7 +8686,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 270.51 122.555 0)
+			(at 270.51 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8695,7 +8695,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 270.51 122.555 0)
+			(at 270.51 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8863,7 +8863,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 133.985 62.23 0)
+		(at 133.35 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8872,7 +8872,7 @@
 		(fields_autoplaced yes)
 		(uuid "7777f5ca-697d-40b1-87f4-513894414045")
 		(property "Reference" "J5"
-			(at 136.525 60.9599 0)
+			(at 135.89 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8881,7 +8881,7 @@
 			)
 		)
 		(property "Value" "BORNERA 2"
-			(at 136.525 63.4999 0)
+			(at 135.89 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8890,7 +8890,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-3_P5.08mm"
-			(at 133.985 62.23 0)
+			(at 133.35 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8899,7 +8899,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.985 62.23 0)
+			(at 133.35 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8908,7 +8908,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 133.985 62.23 0)
+			(at 133.35 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9206,7 +9206,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 269.24 62.865 0)
+		(at 269.24 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9215,7 +9215,7 @@
 		(fields_autoplaced yes)
 		(uuid "90677511-3882-42eb-8361-e204ea9b66b6")
 		(property "Reference" "J4"
-			(at 271.78 61.5949 0)
+			(at 271.78 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9224,7 +9224,7 @@
 			)
 		)
 		(property "Value" "BORNERA 2"
-			(at 271.78 64.1349 0)
+			(at 271.78 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9233,7 +9233,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-3_P5.08mm"
-			(at 269.24 62.865 0)
+			(at 269.24 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9242,7 +9242,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 269.24 62.865 0)
+			(at 269.24 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9251,7 +9251,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 269.24 62.865 0)
+			(at 269.24 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9576,7 +9576,7 @@
 			(uuid "09daab7d-2755-464e-a3fb-10177fe68590")
 		)
 		(instances
-			(project ""
+			(project "esquematico"
 				(path "/3fb1f07d-b939-40dd-b220-aa81ef24414e"
 					(reference "U2")
 					(unit 1)
@@ -11394,7 +11394,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 270.51 112.395 0)
+		(at 270.51 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11403,7 +11403,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc76b3ed-21ff-4854-babf-1aa76587654d")
 		(property "Reference" "J8"
-			(at 273.05 111.1249 0)
+			(at 273.05 110.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11412,7 +11412,7 @@
 			)
 		)
 		(property "Value" "BORNERA 1"
-			(at 273.05 113.6649 0)
+			(at 273.05 113.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11421,7 +11421,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-3_P5.08mm"
-			(at 270.51 112.395 0)
+			(at 270.51 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11430,7 +11430,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 270.51 112.395 0)
+			(at 270.51 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11439,7 +11439,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 270.51 112.395 0)
+			(at 270.51 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11534,7 +11534,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 133.985 52.07 0)
+		(at 133.35 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11543,7 +11543,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff7b504b-f7a1-41d6-9859-05ecec76f46a")
 		(property "Reference" "J2"
-			(at 136.525 50.7999 0)
+			(at 135.89 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11552,7 +11552,7 @@
 			)
 		)
 		(property "Value" "BORNERA 1"
-			(at 136.525 53.3399 0)
+			(at 135.89 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11561,7 +11561,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-3_P5.08mm"
-			(at 133.985 52.07 0)
+			(at 133.35 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11570,7 +11570,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.985 52.07 0)
+			(at 133.35 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11579,7 +11579,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 133.985 52.07 0)
+			(at 133.35 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
